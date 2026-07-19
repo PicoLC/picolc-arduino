@@ -348,7 +348,7 @@ Some hardware resources are shared:
 
 ## License
 
-License information will be added before release.
+Released under MIT license.  See LICENSE file.
 
 ## Project
 
